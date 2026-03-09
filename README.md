@@ -1,9 +1,10 @@
 # 0-Cooldown
-modifies 0 cooldown for every role. seconds will get reset and back to normal if you press the - or + button.
+Modifies the core game settings to allow setting any role's cooldown directly to 0, bypassing the normal 10–60 second limits.
 
 # Steps
 
-win key + R
+Command: Windows key + R (hit both at the same time)
+
 PATH:
 
 %userprofile%/appdata/locallow/innersloth/Among Us/settings.amogus
